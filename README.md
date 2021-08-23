@@ -31,10 +31,10 @@ You can see what I am currently up to on [My Blog][1].
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/VaishnaviDontha][2]
-- Twitter: [twitter.com/VaishnaviDontha][3]
-- Blog: [hashnode.com/@VaishnaviDontha][7]
-
+- [LinkedIn][2]
+- [Twitter][3]
+- [Blog][7]
+- [Portfolio][8]
 
 ## 📕 Latest Blog Posts
 
@@ -76,6 +76,7 @@ You can see what I am currently up to on [My Blog][1].
 [3]: https://twitter.com/Vaishnavidontha
 [6]: https://medium.com/@natterstefan
 [7]: https://vaishnavidontha.hashnode.dev/
+[8]: https://vaishnavidontha.github.io/
 
 
 
