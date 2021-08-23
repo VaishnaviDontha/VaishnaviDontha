@@ -68,5 +68,5 @@ and few more [here](https://vaishnavidontha.hashnode.dev)
 [website]: https://vaishnavidontha.github.io/
 [twitter]: https://twitter.com/Vaishnavidontha
 [blog]: https://vaishnavidontha.hashnode.dev/
-[linkedin]: hhttps://twitter.com/Vaishnavidontha
+[linkedin]: https://www.linkedin.com/in/vaishnavi-dontha-022475107/
 [github]:  https://github.com/VaishnaviDontha
