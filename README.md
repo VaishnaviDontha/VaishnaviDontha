@@ -13,18 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Views](https://komarev.com/ghpvc/?username=VaishnaviDontha&color=lightgrey)
+
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][1]
 -->
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=VaishnaviDontha&color=lightgrey)
-[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][1]
+
+
 
 ### Hi there 👋
 
-I am an Automation Test Engineer from India 🇮🇳. 
+I am Vaishnavi, Automation Test Engineer from India 🇮🇳. 
 I am interested in, write about, QA Methodologies and various technologies used.
 
-You can see what I am currently up to on [hashnode.com/@VaishnaviDontha][1].
+You can see what I am currently up to on [My Blog][1].
 
 ## 📬 Get in touch
 
