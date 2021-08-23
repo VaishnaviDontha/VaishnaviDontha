@@ -3,7 +3,7 @@
 ## I'm an automation test engineer!
 
 - 🌱 I’m currently learning Cypress UI + API Automation using JS.
-- 👯 I’m looking to collaborate with other test engineers.
+- 👯 I’m looking forward to collaborate with other test engineers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to doodle.
 
