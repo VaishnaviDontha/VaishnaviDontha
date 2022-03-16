@@ -1,71 +1,32 @@
-### Hi there, I'm Vaishnavi. [website] 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VaishnaviDontha" alt="VaishnaviDontha" /> </p>
+<h1 align="center">Hi 👋, I'm Vaishnavi Dontha</h1>
+<h3 align="center">An Automation test engineer!</h3>
 
-## I'm an automation test engineer!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavidontha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavidontha" /> </p>
 
-- 🌱 I’m currently learning Cypress UI + API Automation using JS.
-- 👯 I’m looking forward to collaborate with other test engineers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to doodle
+- 🌱 I’m currently learning **Cypress, Python**
 
-### Connect with me:
+- 👯 I’m looking to collaborate on **Cypress**
 
-[<img align="left" alt="vaishnavi.co" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vaishnavidontha | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vaishnavidontha | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:vaishnavidontha24@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+- 👨‍💻 All of my projects are available at [https://vaishnavidontha.github.io/](https://vaishnavidontha.github.io/)
 
----
+- 📝 I regularly write articles on [https://vaishnavidontha.hashnode.dev/](https://vaishnavidontha.hashnode.dev/)
 
-### Languages and Tools:
+- 💬 Ask me about **Testing Methodologies, Selenium, RPA**
 
-[<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
-[<img align="left" alt="CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>][github]
-[<img align="left" alt="HTML" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>][github]
-[<img align="left" alt="Cucumber" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>][github]
-[<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="Selenium" width="40px" src="https://github.com/SeleniumHQ/www.seleniumhq.org/blob/master/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg"/>][github]
-[<img align="left" alt="Cypress" width="40px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg"/>][github]
-[<img align="left" alt="VisulaStudio" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>][github]
-[<img align="left" alt="NPM" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>][github]
-[<img align="left" alt="JIRA" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"/>][github]
-[<img align="left" alt="IntellijIDE" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"/>][github]
-[<img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>][github]
-[<img align="left" alt="GIT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>][github]
-[<img align="left" alt="ApacheJMeter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"/>][github]
+- 📫 How to reach me **vaishnavidontha24@gmail.com**
 
+- 📄 Know about my experiences [https://vaishnavidontha.github.io/](https://vaishnavidontha.github.io/)
 
-<br />
-<br />
-<br />
+- ⚡ Fun fact **I love to Doodle**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vaishnavidontha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavidontha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishnavi dontha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi dontha" height="30" width="40" /></a>
+<a href="https://hashnode.com/@vaishnavidontha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vaishnavidontha24" height="30" width="40" /></a>
+</p>
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Perf. Testing Basics via JMeter](https://vaishnavidontha.hashnode.dev/beginners-guide-to-performance-testing-with-apache-jmeter-basic-tutorial)
-- [Postman for QA part 3](https://vaishnavidontha.hashnode.dev/api-testing-using-postman-part-3)
-- [Postman for QA part 2](https://vaishnavidontha.hashnode.dev/api-testing-using-postman-part-2)
-- [Postman for QA part 1](https://vaishnavidontha.hashnode.dev/api-testing-using-postman-part-1)
-and few more [here](https://vaishnavidontha.hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
----
-### 📜 Certificates
-
-- [API Automation with Postman - TAU](https://testautomationu.applitools.com/certificate/?id=5a62756c)
-- [Introduction to Chai Assertions - TAU](https://testautomationu.applitools.com/certificate/?id=6b43e15e)
-- [Mocha JavaScript Test Framework - TAU](https://testautomationu.applitools.com/certificate/?id=3fe17812)
-
----
-
-<img align="left" alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VaishnaviDontha&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviDontha&show_icons=true&hide_border=true)](https://github.com/VaishnaviDontha)
-
-
-[website]: https://vaishnavidontha.github.io/
-[twitter]: https://twitter.com/Vaishnavidontha
-[blog]: https://vaishnavidontha.hashnode.dev/
-[linkedin]: https://www.linkedin.com/in/vaishnavi-dontha-022475107/
-[github]:  https://github.com/VaishnaviDontha
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavidontha&show_icons=true&locale=en&layout=compact" alt="vaishnavidontha" /></p>
