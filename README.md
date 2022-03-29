@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavidontha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavidontha" /> </p>
 
-- 🌱 I’m currently learning **Cypress, Python**
+- 🌱 I’m currently learning **Cypress**
 
 - 👯 I’m looking to collaborate on **Cypress**
 
