@@ -32,7 +32,7 @@
 **Automation Testing** : Selenium WebDriver, TestNG, POM, Rest Assured, Cypress.io, Cucumber <br>
 **Databases** : MYSQL, Oracle
 
-## Certification: 
+## Certifications : 
 UIPath RPA Developer Certified | API Test Automation – TAU | Introduction to Chai Assertions –TAU | Mocha JavaScript Framework – TAU
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavidontha&layout=compact&count_private=true)](https://github.com/vaishnavidontha/github-readme-stats)
