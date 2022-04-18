@@ -110,7 +110,6 @@ UIPath RPA Developer Certified | API Test Automation – TAU | Introduction to C
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavidontha&show_icons=true&theme=dracula&&hide=stars,issues&count_private=true" /> <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavidontha&layout=compact" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavidontha&layout=compact"/>
 
 </div>
