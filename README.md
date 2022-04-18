@@ -75,10 +75,9 @@ class About extends Me {
   };
 }
 ```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning **Cypress**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />I like exploring **QA Tools**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />Find me on LinkedIn: **[Vaishnavi Dontha](https://linkedin.com/in/vaishnavidontha)**<br>
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning **Cypress**. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I like exploring **QA Tools**. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on LinkedIn: **[Vaishnavi Dontha](https://linkedin.com/in/vaishnavidontha)**<br>
 
 <hr></hr>
 
