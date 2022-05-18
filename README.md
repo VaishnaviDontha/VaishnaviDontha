@@ -68,10 +68,10 @@ UIPath RPA Developer Certified | API Test Automation – TAU | Introduction to C
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "C" , " Java "},
-    "Tools" : { JIRA, Azure Boards, GIT, Maven, Jenkins, SOAP UI, JMeter, Postman  },
-    "Automation" : { Selenium WebDriver, TestNG, POM, Rest Assured, Cypress.io, Cucumber },
-    "Database" : { MYSQL, Oracle },
-    "Platforms" : { "Windows" },
+    "Tools" : { "JIRA", "Azure Boards", "GIT", "Maven", "Jenkins", "SOAP UI", "JMeter", "Postman" },
+    "Automation" : { "Selenium WebDriver", "TestNG", "POM", "Rest Assured", "Cypress.io", "Cucumber" },
+    "Database" : { "MYSQL", "Oracle" },
+    "Platforms" : { "Windows", "Mac" },
   };
 }
 ```
