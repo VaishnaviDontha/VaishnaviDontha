@@ -13,7 +13,7 @@
   
 👯 I’m looking to collaborate on **Cypress**
 
-👨‍💻 All of my projects are available at [https://vaishnavidontha.github.io/](https://vaishnavidontha.github.io/)
+👨‍💻 All of my projects are available at [https://github.com/VaishnaviDontha](https://github.com/VaishnaviDontha)
   
 📝 I regularly write articles on [https://vaishnavidontha.hashnode.dev/](https://vaishnavidontha.hashnode.dev/)
   
