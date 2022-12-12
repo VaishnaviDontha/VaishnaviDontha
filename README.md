@@ -1,15 +1,27 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Dontha</h1>
+<!--<h1 align="center">
 <h3 align="center">An Automation test engineer!</h3>
 
 
-<div width="50">
+<div width="20">
 
 <!-- <img align = "center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> -->
   
 
-# 💫About Me :
+Hi 👋
+
+🌱 I’m currently learning on building a Data-Driven Framework with Selenide.
   
-🌱 I’m currently learning **Cypress**
+👯 I’m looking to collaborate on cypress, selenide.
+  
+💬 Ask me about automation testing frameworks and its methodologies.
+  
+📫 How to reach me: Email me or DM on Twitter
+  
+😄 Pronouns: she/her
+  
+⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
+  
+<!-- 🌱 I’m currently learning **Cypress**
   
 👯 I’m looking to collaborate on **Cypress**
 
