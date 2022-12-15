@@ -15,9 +15,9 @@ Hi 👋
   
 💬 Ask me about automation testing frameworks and its methodologies.
   
-📫 How to reach me: Email me or DM on Twitter
+📫 How to reach me: Email me or DM on Twitter.
   
-😄 Pronouns: she/her
+😄 Pronouns: she/her.
   
 ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
   
